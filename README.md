@@ -1,4 +1,4 @@
-### Hi there 👋
+### 꾸준함도 실력 🔭
 
 <!--
 **okyungjin/okyungjin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
