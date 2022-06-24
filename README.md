@@ -7,7 +7,7 @@
 <br>
 
 # 📚 My Repositories
-## Vue
+## ✔️ Vue
 ### Vue 2
 - [News App](https://github.com/okyungjin/vue2-news#about-project)
 - [Todo App](https://github.com/okyungjin/vue2-todo)
@@ -18,11 +18,11 @@
 - [Todo App](https://github.com/okyungjin/vue3-todo)
 - [Vue 3 Code Snippets](https://github.com/okyungjin/vue3-code-snippets)
 
-## TypeScript
+## ✔️ TypeScript
 - [COVID-19 Dashboard](https://github.com/okyungjin/COVID-19-dashboard)
 - [Effective TypeScript](https://github.com/okyungjin/effecitve-typescript)
 
-## Etc.
+## ✔️ Etc.
 - [Functional Programming](https://github.com/okyungjin/functional-programming)
 - [RxJS](https://github.com/okyungjin/learn-RxJS)
 - [Algorithm](https://github.com/okyungjin/ALGORITHM)
