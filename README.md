@@ -17,6 +17,7 @@
 
 ### ✔️ TypeScript
 - [COVID-19 Dashboard](https://github.com/okyungjin/COVID-19-dashboard)
+- [Learn TypeScript](https://github.com/okyungjin/learn-typescript)
 - [Effective TypeScript](https://github.com/okyungjin/effecitve-typescript)
 
 ### ✔️ Etc.
