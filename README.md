@@ -16,7 +16,7 @@
   - [Vue 3 Code Snippets](https://github.com/okyungjin/vue3-code-snippets)
   
 ### ✔️ JavaScript
-- [modern-javascript-deep-dive](https://github.com/okyungjin/modern-javascript-deep-dive)
+- [Modern JavaScript Deep Dive](https://github.com/okyungjin/modern-javascript-deep-dive)
 
 ### ✔️ TypeScript
 - [COVID-19 Dashboard](https://github.com/okyungjin/COVID-19-dashboard)
