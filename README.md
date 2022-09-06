@@ -45,3 +45,5 @@
 ## 🏅 &nbsp;My Scores
 
 <img src="https://github-readme-stats.vercel.app/api?username=okyungjin&show_icons=true&theme=vue" height=150 /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=okyungjin&layout=compact&theme=vue" height=150 /> 
+
+![Leetcode Stats](https://leetcard.jacoblin.cool/okyungjin?theme=nord&border=0&radius=20)
