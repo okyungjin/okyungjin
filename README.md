@@ -8,7 +8,7 @@
 <br>
 
 ## 📚 &nbsp;My Repositories
-- **JavaScript** [Vanilla JS Playground](https://github.com/okyungjin/vanilla-javascript-playground) | [Functional Programming](https://github.com/okyungjin/functional-programming) | [RxJS](https://github.com/okyungjin/learn-RxJS) | [Modern JavaScript Deep Dive](https://github.com/okyungjin/modern-javascript-deep-dive) | 
+- **JavaScript** [Vanilla JS Playground](https://github.com/okyungjin/vanilla-javascript-playground) | [Functional Programming](https://github.com/okyungjin/functional-programming) | [RxJS](https://github.com/okyungjin/learn-RxJS) | [Modern JavaScript Deep Dive](https://github.com/okyungjin/modern-javascript-deep-dive)
 - **TypeScript** [COVID-19 Dashboard](https://github.com/okyungjin/COVID-19-dashboard) | [Learn TypeScript](https://github.com/okyungjin/learn-typescript) | [Effective TypeScript](https://github.com/okyungjin/effecitve-typescript)
 - **Vue 3** [Todo App](https://github.com/okyungjin/vue3-todo) | [Vue3 Playground](https://github.com/okyungjin/vue3-playground)
 - **Vue 2** [News App](https://github.com/okyungjin/vue2-news#about-project) | [Todo App](https://github.com/okyungjin/vue2-todo) | [Vue with PWA](https://github.com/okyungjin/vue-with-pwa) | [Learn Nuxt.js](https://github.com/okyungjin/learn-nuxt-js)
