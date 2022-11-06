@@ -8,46 +8,18 @@
 <br>
 
 ## 📚 &nbsp;My Repositories
-### ✔️ Vue
-#### &nbsp; Vue 2
-  - [News App](https://github.com/okyungjin/vue2-news#about-project)
-  - [Todo App](https://github.com/okyungjin/vue2-todo)
-  - [Vue with PWA](https://github.com/okyungjin/vue-with-pwa)
-  - [Learn Nuxt.js](https://github.com/okyungjin/learn-nuxt-js)
-
-#### &nbsp; Vue 3
-  - [Todo App](https://github.com/okyungjin/vue3-todo)
-  - [Vue 3 Code Snippets](https://github.com/okyungjin/vue3-code-snippets)
-  
-### ✔️ JavaScript
-- [Modern JavaScript Deep Dive](https://github.com/okyungjin/modern-javascript-deep-dive)
-
-### ✔️ TypeScript
-- [COVID-19 Dashboard](https://github.com/okyungjin/COVID-19-dashboard)
-- [Learn TypeScript](https://github.com/okyungjin/learn-typescript)
-- [Effective TypeScript](https://github.com/okyungjin/effecitve-typescript)
-
-### ✔️ Etc.
-- [Functional Programming](https://github.com/okyungjin/functional-programming)
-- [RxJS](https://github.com/okyungjin/learn-RxJS)
-- [Algorithm](https://github.com/okyungjin/ALGORITHM)
-- [Computer Science Note](https://github.com/okyungjin/computer-science-note)
-
-<br>
-
-## 🧐 &nbsp;Open Sources
-- [Awesome Vue](https://github.com/okyungjin/awesome-vue)
-- [Velog Client](https://github.com/okyungjin/velog-client)
-- [Refactoring 2nd by Martin Fowler](https://github.com/okyungjin/martin-fowler-refactoring-2nd)
+- **JavaScript** [Vanilla JS Playground](https://github.com/okyungjin/vanilla-javascript-playground) | [Functional Programming](https://github.com/okyungjin/functional-programming) | [RxJS](https://github.com/okyungjin/learn-RxJS) | [Modern JavaScript Deep Dive](https://github.com/okyungjin/modern-javascript-deep-dive) | 
+- **TypeScript** [COVID-19 Dashboard](https://github.com/okyungjin/COVID-19-dashboard) | [Learn TypeScript](https://github.com/okyungjin/learn-typescript) | [Effective TypeScript](https://github.com/okyungjin/effecitve-typescript)
+- **Vue 3** [Todo App](https://github.com/okyungjin/vue3-todo) | [Vue3 Playground](https://github.com/okyungjin/vue3-playground)
+- **Vue 2** [News App](https://github.com/okyungjin/vue2-news#about-project) | [Todo App](https://github.com/okyungjin/vue2-todo) | [Vue with PWA](https://github.com/okyungjin/vue-with-pwa) | [Learn Nuxt.js](https://github.com/okyungjin/learn-nuxt-js)
+- **React** [React Playground](https://github.com/okyungjin/react-playground)
+- **Etc.** [Algorithm](https://github.com/okyungjin/ALGORITHM) | [TIL](https://github.com/okyungjin/TIL)
 
 <br>
 
 ## 🏅 &nbsp;My Scores
-
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fokyungjin&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
-<img src="https://github-readme-stats.vercel.app/api?username=okyungjin&show_icons=true&theme=vue" height=150 /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=okyungjin&layout=compact&theme=vue" height=150 /> 
-
-![Leetcode Stats](https://leetcard.jacoblin.cool/okyungjin?theme=nord&border=0&radius=20)
+<img src="https://github-readme-stats.vercel.app/api?username=okyungjin&show_icons=true&theme=vue" height=150 /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=okyungjin&layout=compact&theme=vue" height=150 /> <img src="https://leetcard.jacoblin.cool/okyungjin?theme=nord&border=0&radius=20" height=150 />
 
 
