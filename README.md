@@ -13,7 +13,8 @@
 - **Vue 3** [Todo App](https://github.com/okyungjin/vue3-todo) | [Vue3 Playground](https://github.com/okyungjin/vue3-playground)
 - **Vue 2** [News App](https://github.com/okyungjin/vue2-news#about-project) | [Todo App](https://github.com/okyungjin/vue2-todo) | [Vue with PWA](https://github.com/okyungjin/vue-with-pwa) | [Learn Nuxt.js](https://github.com/okyungjin/learn-nuxt-js)
 - **React** [React Playground](https://github.com/okyungjin/react-playground)
-- **Etc.** [Algorithm](https://github.com/okyungjin/ALGORITHM) | [TIL](https://github.com/okyungjin/TIL)
+- **CSS** [CSS Playground](https://github.com/okyungjin/css-playground)
+- **Etc.** [ALGORITHM](https://github.com/okyungjin/ALGORITHM) | [TIL](https://github.com/okyungjin/TIL)
 
 <br>
 
