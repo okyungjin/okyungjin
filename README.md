@@ -15,6 +15,7 @@
 - **React** [React Playground](https://github.com/okyungjin/react-playground)
 - **CSS** [CSS Playground](https://github.com/okyungjin/css-playground)
 - **Etc.** [ALGORITHM](https://github.com/okyungjin/ALGORITHM) | [TIL](https://github.com/okyungjin/TIL)
+- **Book Study** [Clean Code](https://github.com/CleanCode-resolution-for-a-month/cleancode-2) | [리팩터링 2판](https://github.com/read-with-us/refactoring)
 
 <br>
 
