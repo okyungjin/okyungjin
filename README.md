@@ -2,14 +2,10 @@
 - ✨ Frontend Developer
 - ✏️ I’m currently learning Javascript, Typescript, Vue and React
 
-<br>
-
 ### 🛠 Tech Stack
 - 💻 Javascript | Typescript | Python
 - ⚙️ Vue | React
 - 📱 Flutter
-
-<br>
 
 ### 📚 &nbsp;My Repositories
 - **JavaScript** [Vanilla JS Playground](https://github.com/okyungjin/vanilla-javascript-playground) | [Functional Programming](https://github.com/okyungjin/functional-programming) | [RxJS](https://github.com/okyungjin/learn-RxJS) | [Modern JavaScript Deep Dive](https://github.com/okyungjin/modern-javascript-deep-dive)
@@ -20,8 +16,6 @@
 - **CSS** [CSS Playground](https://github.com/okyungjin/css-playground)
 - **Etc.** [ALGORITHM](https://github.com/okyungjin/ALGORITHM) | [TIL](https://github.com/okyungjin/TIL)
 - **Book Study** [Clean Code](https://github.com/CleanCode-resolution-for-a-month/cleancode-2) | [리팩터링 2판](https://github.com/read-with-us/refactoring)
-
-<br>
 
 ### 🏅 &nbsp;My Scores
 <img src="https://github-readme-stats.vercel.app/api?username=okyungjin&show_icons=true&theme=vue" height=150 /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=okyungjin&layout=compact&theme=vue" height=150 />
