@@ -1,8 +1,8 @@
-### 🌱 KyungJin Jung
+### 🌱 &nbsp;KyungJin Jung
 - ✨ Frontend Developer
 - ✏️ I’m currently learning Javascript, Typescript, Vue and React
 
-### 🛠 Tech Stack
+### 🛠 &nbsp;Tech Stack
 - 💻 Javascript | Typescript | Python
 - ⚙️ Vue | React
 - 📱 Flutter
