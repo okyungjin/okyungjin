@@ -1,11 +1,6 @@
 ### 👋 &nbsp;Hi, I'm KyungJin Jung
-- ✨ Frontend Developer
-- 🌱 I’m currently learning Javascript, Typescript, Vue and React
-
-### 🛠 &nbsp;Tech Stack
-- 💻 Javascript | Typescript | Python
-- ⚙️ Vue | React
-- 📱 Flutter
+- ✨ Full Stack Developer
+- 🌱 I’m currently learning Javascript, Typescript and Node.js
 
 ### 📚 &nbsp;My Repositories
 - **JavaScript** [Vanilla JS Playground](https://github.com/okyungjin/vanilla-javascript-playground) | [JavaScript30](https://github.com/okyungjin/JavaScript30) | [Functional Programming](https://github.com/okyungjin/functional-programming) | [RxJS](https://github.com/okyungjin/learn-RxJS) | [Modern JavaScript Deep Dive](https://github.com/okyungjin/modern-javascript-deep-dive)
